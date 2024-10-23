@@ -354,11 +354,11 @@
   </SerializableParameter>
   <SerializableParameter>
     <Address>88</Address>
-    <Value>16000</Value>
+    <Value>3840</Value>
   </SerializableParameter>
   <SerializableParameter>
     <Address>89</Address>
-    <Value>16000</Value>
+    <Value>1920</Value>
   </SerializableParameter>
   <SerializableParameter>
     <Address>90</Address>
